@@ -1,0 +1,56 @@
+{
+  "year": 2023,
+  "regions": [
+    {
+      "name": "Southeast Asia",
+      "incidents": 342,
+      "victimDemographics": {
+        "minors": 127,
+        "adults": 215,
+        "gender": {
+          "female": 245,
+          "male": 97
+        }
+      },
+      "methodsUsed": [
+        {
+          "type": "Social Media Recruitment",
+          "count": 156,
+          "platforms": {
+            "facebook": 78,
+            "instagram": 45,
+            "tiktok": 33
+          }
+        },
+        {
+          "type": "False Job Advertisements",
+          "count": 124,
+          "platforms": {
+            "job_sites": 89,
+            "social_media": 35
+          }
+        }
+      ],
+      "monthlyTrends": [
+        {"month": "Jan", "count": 35},
+        {"month": "Feb", "count": 28},
+        {"month": "Mar", "count": 32},
+        {"month": "Apr", "count": 25},
+        {"month": "May", "count": 29},
+        {"month": "Jun", "count": 27},
+        {"month": "Jul", "count": 31},
+        {"month": "Aug", "count": 26},
+        {"month": "Sep", "count": 30},
+        {"month": "Oct", "count": 28},
+        {"month": "Nov", "count": 24},
+        {"month": "Dec", "count": 27}
+      ]
+    }
+  ],
+  "preventionMetrics": {
+    "successfulInterventions": 156,
+    "potentialVictimsSaved": 234,
+    "networksDisrupted": 12,
+    "awarenessReach": 50000
+  }
+}
